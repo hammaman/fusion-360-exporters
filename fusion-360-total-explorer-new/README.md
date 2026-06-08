@@ -1,4 +1,12 @@
 # Fusion 360 Total Exporter ('New')
+
+## Source of this README
+This README is based on that from https://github.com/TehDmitry/fusion-360-total-exporter with two changes:
+1. Updated download link to refer to the TehDmitry repository
+2. Updated instructions to refer to Fusion 360 Utilities menu, not Tools
+
+# Fusion 360 Total Exporter
+
 Need to export all of your fusion data in a bunch of formats? We've got you covered. This will export your designs across all hubs, projects, files, and components. It exports them in STL, STEP, and IGES format. It also exports the sketches as DXF files. In addition to those, an f3d/f3z file will be exported for each component/assembly file in all of your projects, across all hubs. It doesn't ask what you want written out, it just writes out the latest version of everything, to the folder of your choice.
 
 ## How do I use this?
